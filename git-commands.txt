@@ -3,20 +3,18 @@ git status ------------megmondja ha van új fáljod amit push-ni kéne fel
 git add filename.ext -- berakja a fájlt a feltöltendők közé
 git commit -m "leírás hogy mit változtattál" ----------------feltölti a fájlt a githubra
 git log --------------- megmutatja a logot hogy mit csinált
-<<<<<<< HEAD
 
+
+
+git config pull.rebase false  # merge
+git config pull.rebase true   # rebase
+git config pull.ff only       # fast-forward only
 
 https://www.theodinproject.com/lessons/foundations-git-basics#cheatsheet
 
 
-
-
-
-
 origin  git@github.com:Weston-L/git-test.git (fetch)
 origin  git@github.com:Weston-L/git-test.git (push)
-=======
-git push --------------- fenyomja a commitot a githubra
-git pull ----------------lehúzza a változásokat a sajátgépre
 
->>>>>>> 5616e559666d6f6c9a381a06548e0b052ea38b95
+
+
