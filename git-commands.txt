@@ -3,3 +3,14 @@ git status ------------megmondja ha van új fáljod amit push-ni kéne fel
 git add filename.ext -- berakja a fájlt a feltöltendők közé
 git commit -m "leírás hogy mit változtattál" ----------------feltölti a fájlt a githubra
 git log --------------- megmutatja a logot hogy mit csinált
+
+
+https://www.theodinproject.com/lessons/foundations-git-basics#cheatsheet
+
+
+
+
+
+
+origin  git@github.com:Weston-L/git-test.git (fetch)
+origin  git@github.com:Weston-L/git-test.git (push)
