@@ -4,5 +4,5 @@ git add filename.ext -- berakja a fájlt a feltöltendők közé
 git commit -m "leírás hogy mit változtattál" ----------------feltölti a fájlt a githubra
 git log --------------- megmutatja a logot hogy mit csinált
 git push --------------- fenyomja a commitot a githubra
-git push ----------------lehúzza a változásokat a sajátgépre
+git pull ----------------lehúzza a változásokat a sajátgépre
 
